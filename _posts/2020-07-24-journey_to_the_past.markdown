@@ -14,7 +14,6 @@ I'm learning to code.
 I grew up in Los Altos, California, the town where Steve Jobs founded Apple Computers in his garage. The heart of Silicon Valley. I've been into tech since before I can remember. I've been a Mac user for life. I came of age with technology and the internet. Facebook was founded during my freshman year at NYU. The iPhone first premiered the week I graduated college and began my acting career in New York City. 
 
 You see, that's where tech and I diverged. I began acting at the age of five as a munchkin in *The Wizard of Oz*, and I never stopped. If it weren't for this preoccupation with theater, I likely would have "jumped into tech" decades ago. Theater is a fulfilling yet draining career path. Your current achievement is never enough. It's always, "What's next?" And sometimes "what's next" doesn't come for weeks, or months, or years. So I need something more stable. 
-
 > Though staying put on the East Coast, I feel like I'm going back home. I'm revisiting that passion, excitement, and proficiency I always had for tech as a kid. 
 > 
 
