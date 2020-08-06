@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Journey to the past..."
-date:       2020-07-24 16:40:10 +0000
+date:       2020-07-24 12:40:11 -0400
 permalink:  journey_to_the_past
 ---
 
